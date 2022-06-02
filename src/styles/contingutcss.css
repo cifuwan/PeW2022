@@ -1,0 +1,42 @@
+.list {
+    min-height: 200px ;
+    margin: 10px;
+    padding: 10px;
+    background: rgb(243, 245, 246);
+    width: 70%;
+}
+
+.addButton {
+    float: right;
+}
+
+.delButton {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+
+.trashcan {
+    position: absolute;
+    bottom: 3px;
+    right: 3px;
+}
+
+.clearBoth {
+    clear: both;
+}
+
+.item {
+    position: relative;
+}
+
+.poster {
+    float: left;
+    width: 25%;
+}
+
+.filmInfo {
+    float: left;
+    font-size: xx-small;
+    margin-left: 10px;
+}
